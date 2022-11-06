@@ -1,0 +1,7 @@
+I made some changes to the folders to better organize the classes. I removed some switches and other unnecessary code that only increased the code and worsened the performance. I also created more methods in some parts to decrease repetition and improve code readability. I've put some parts of the code elsewhere to make it readable. And I refactored some parts of the code to improve the functioning and make it more organized
+
+Examples:
+Removing switch of string choice that was repeating code.
+Changing vars to specific types to see what type we are declaring.
+Changing enums in classes to enum folder for better organization.
+Modified Character TakeDamage method to use parameter amount instead of BaseDamage that is not related to the damage we are taking.
